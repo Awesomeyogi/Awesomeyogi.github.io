@@ -18,8 +18,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Welcome to Yogi's Awesome Site"
+description: "Here you will find posts in the field of Phiolosophy, Programming, Computational and Theoretical Chemistry."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://awesomeyogi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
